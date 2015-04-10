@@ -1,0 +1,15 @@
+{
+    "name": "alveos/justwave",
+    "description": "A class to create waveforms from audio",
+    "require": {
+    },
+    "authors": [
+        {
+            "name": "Andrey Tzar",
+            "email": "beotiger@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"JustWave\\": "src/JustWave"}
+    }
+}

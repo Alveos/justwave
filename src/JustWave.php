@@ -1,4 +1,6 @@
 <?php
+
+namespace Alveos\JustWave;
 // uncomment next string and LOG::write instances to have logging
 // require_once 'log.class.php';
 
