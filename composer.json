@@ -10,6 +10,6 @@
         }
     ],
     "autoload": {
-        "psr-4": {"JustWave\\": "src/JustWave"}
+        "psr-4": {"Alveos\\JustWave\\": "src/JustWave"}
     }
 }
